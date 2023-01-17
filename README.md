@@ -12,5 +12,5 @@ filtrar la lista de resultados a partir de una barra de búsqueda que filtre en 
 nombre del colaborador.
 
 
-# Deploy del Dedsafio
+# Deploy del Desafio
 https://cozy-squirrel-3e3446.netlify.app/
